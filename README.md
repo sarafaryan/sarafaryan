@@ -1,1 +1,1 @@
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fwallpaper%2F&psig=AOvVaw2iNLI2vjb4WGLpty_vMuDo&ust=1650884434837000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIizwfzFrPcCFQAAAAAdAAAAABAJ" height="100%" width="100%">
+<img align="center" src="https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547__340.jpg" height="100%" width="100%">
